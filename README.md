@@ -16,3 +16,4 @@ Carlos Eduardo<br>Formado em Ánalise e desenvolvimento de sistemas<br>Atualment
 
 ---
 [![](https://visitcount.itsvg.in/api?id=cadu2602&icon=4&color=0)](https://visitcount.itsvg.in)
+![Snake animation](https://github.com/cadu2602/2602/blob/output/github-contribution-grid-snake.svg)
