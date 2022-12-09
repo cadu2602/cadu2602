@@ -11,7 +11,7 @@ Carlos Eduardo<br>Formado em Ánalise e desenvolvimento de sistemas<br>Atualment
 
 <!-- ![HTML5](https://github-readme-stats.vercel.app/api/wakatime?username=cadu2602) -->
 <div align="center">
-  <img  src="https://github-readme-stats.vercel.app/api/wakatime?username=cadu2602" />
+  <img  src="https://github-readme-stats.vercel.app/api/wakatime?username=@cadu2602" />
 </div>
 
 ## 🌐 Socials:
