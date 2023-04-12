@@ -12,7 +12,7 @@ Carlos Eduardo<br>Formado em Ánalise e desenvolvimento de sistemas<br>Atualment
 <!-- ![HTML5](https://github-readme-stats.vercel.app/api/wakatime?username=cadu2602) -->
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@cadu_zimpel) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/caduCSof) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@Caduzin_MZ) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/cadu_zimpel) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/caduCSof) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@Caduzin_MZ) 
 
 ---
 [![](https://visitcount.itsvg.in/api?id=cadu2602&icon=4&color=0)](https://visitcount.itsvg.in)
