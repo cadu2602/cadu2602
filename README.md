@@ -1,5 +1,5 @@
 # 💫 About Me:
-Carlos Eduardo<br>Formado em Ánalise e desenvolvimento de sistemas<br>Atualmente trabalho como Assistente de T.I na empresa Fundimisa 
+Carlos Eduardo<br>Formado em Ánalise e desenvolvimento de sistemas<br>Atualmente trabalho como desenvolvedor júnior na empresa Fundimisa 
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=cadu2602&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
