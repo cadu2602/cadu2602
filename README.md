@@ -2,9 +2,11 @@
 Carlos Eduardo<br>Formado em Ánalise e desenvolvimento de sistemas<br>Atualmente trabalho como desenvolvedor júnior na empresa Fundimisa 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=cadu2602&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=cadu2602&theme=radical&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=cadu2602&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cadu2602&theme=moonlight)<br />
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cadu2602&theme=moonlight) <br />
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cadu2602&theme=moonlight) <br />
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=cadu2602&theme=moonlight) <br />
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=cadu2602&theme=moonlight&utcOffset=8) <br />
 
 # 💻 Tech Stack:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) [Quasar](https://img.shields.io/badge/Quasar-16B7FB?style=for-the-badge&logo=quasar&logoColor=black) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
