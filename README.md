@@ -5,7 +5,7 @@ Carlos Eduardo<br>Formado em Ánalise e desenvolvimento de sistemas<br>Atualment
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cadu2602&theme=moonlight)<br />
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cadu2602&theme=moonlight)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cadu2602&theme=moonlight) <br />
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=cadu2602&theme=moonlight) <br />
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=cadu2602&theme=moonlight)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=cadu2602&theme=moonlight&utcOffset=8) <br />
 
 # 💻 Tech Stack:
