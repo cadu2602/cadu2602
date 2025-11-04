@@ -1,5 +1,5 @@
 # 💫 About Me:
-Carlos Eduardo<br>Formado em Ánalise e desenvolvimento de sistemas<br>Atualmente trabalho como desenvolvedor júnior na empresa Fundimisa 
+Carlos Eduardo<br>Formado em Ánalise e desenvolvimento de sistemas<br>Atualmente trabalho como desenvolvedor fullstack pleno na empresa Fundimisa 
 
 # 📊 GitHub Stats:
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cadu2602&theme=moonlight)<br />
